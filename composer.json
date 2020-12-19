@@ -1,6 +1,6 @@
 {
     "name": "alanchen365/php-easyswoole3-pay",
-    "description": "es3 支付打包",
+    "description": "es3 pay",
     "keywords": [],
     "type": "library",
     "license": "MIT",
