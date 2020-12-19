@@ -1,6 +1,6 @@
 <?php
 
-namespace Es3\Auth\Pay\WeChat;
+namespace Es3\WeChat;
 
 use App\Module\Callback\Type\TaskType;
 use App\Module\Pay\Constant\PayConstant;
