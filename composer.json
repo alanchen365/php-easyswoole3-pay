@@ -1,0 +1,19 @@
+{
+    "name": "alanchen365/php-easyswoole3-pay",
+    "description": "es3 支付打包",
+    "keywords": [],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "easyswoole/easyswoole" : "3.x",
+        "alanchen365/easyswoole3-extension": "*",
+        "easyswoole/http-annotation": "1.3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Es3\\Pay": "src/"
+        }
+    }
+}
