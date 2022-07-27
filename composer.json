@@ -7,8 +7,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1",
-        "easyswoole/easyswoole" : "3.x",
-        "alanchen365/easyswoole3-extension": "*"
+        "easyswoole/easyswoole" : "3.x"
     },
     "autoload": {
         "psr-4": {
